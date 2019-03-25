@@ -1,5 +1,8 @@
 package tuling.demo;
 
+/**
+ * 引用计数器  循环引用
+ */
 public class ReferenceCountingGc {
 	Object instance = null;
 
